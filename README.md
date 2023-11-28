@@ -6,9 +6,10 @@
 
 A minimal and unopinionated CSS stylesheet to reset default user-agent styles
 for cross-browser compatability. The CSS style properties provided here -
-[`resets.css`](./resets.css) are supposed to be used as a source of reference
-and expanded upon. So feel free to copy the contents for your frontend projects
-and make necessary changes/addendum as you deem fit!
+[`resets.css`](https://raw.githubusercontent.com/Jarmos-san/resets.css/main/resets.css)
+are supposed to be used as a source of reference and expanded upon. So feel free
+to copy the contents for your frontend projects and make necessary
+changes/addendum as you deem fit!
 
 The stylesheet provided in this repository is based on inspirations I picked up
 from the resources shared below, so their contributions are much welcomed!
