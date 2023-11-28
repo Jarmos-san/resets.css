@@ -10,6 +10,16 @@ for cross-browser compatability. The CSS style properties provided here -
 and expanded upon. So feel free to copy the contents for your frontend projects
 and make necessary changes/addendum as you deem fit!
 
+The stylesheet provided in this repository is based on inspirations I picked up
+from the resources shared below, so their contributions are much welcomed!
+
+- [TailwindCSS's Preflight](https://unpkg.com/tailwindcss@3.3.5/src/css/preflight.css)
+- [Josh Comeau's Custom CSS Resets](https://www.joshwcomeau.com/css/custom-css-reset/)
+
+I plan on keeping this project updated to the best of my capabilities and
+knowledge. So, if you notice something missing or have a better idea for
+something please do not hesitate to open a PR!
+
 ## 📄 Usage Terms & Conditions
 
 The project is licensed under the terms & conditions (T&Cs) for the MIT license.
