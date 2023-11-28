@@ -16,12 +16,13 @@ from the resources shared below, so their contributions are much welcomed!
 
 - [TailwindCSS's Preflight](https://unpkg.com/tailwindcss@3.3.5/src/css/preflight.css)
 - [Josh Comeau's Custom CSS Resets](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [Andy Bell's "A (More) Modern CSS Reset"](https://andy-bell.co.uk/a-more-modern-css-reset/)
 
 I plan on keeping this project updated to the best of my capabilities and
 knowledge. So, if you notice something missing or have a better idea for
 something please do not hesitate to open a PR!
 
-## 📄 Usage Terms & Conditions
+## Usage Terms & Conditions
 
 The project is licensed under the terms & conditions (T&Cs) for the MIT license.
 So, you free to use, distribute, copy, modify & such with the contents of this
