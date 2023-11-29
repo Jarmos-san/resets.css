@@ -5,7 +5,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FJarmos-san%2Fneovim-docker)
 
 A minimal and unopinionated CSS stylesheet to reset default user-agent styles
-for cross-browser compatability. The CSS style properties provided here -
+for cross-browser compatibility. The CSS style properties provided here -
 [`resets.css`](https://raw.githubusercontent.com/Jarmos-san/resets.css/main/resets.css)
 are supposed to be used as a source of reference and expanded upon. So feel free
 to copy the contents for your frontend projects and make necessary
@@ -25,8 +25,8 @@ something please do not hesitate to open a PR!
 ## Usage Terms & Conditions
 
 The project is licensed under the terms & conditions (T&Cs) for the MIT license.
-So, you free to use, distribute, copy, modify & such with the contents of this
-repository in whatever manner you want to. The caveat is, your usage should
+So, you are free to use, distribute, copy and modify the contents of this
+repository in whatever manner you want to. The caveat is, that your usage should
 adhere to the T&Cs of the MIT license.
 
 For more information on the licensing T&Cs, feel free to refer to the
