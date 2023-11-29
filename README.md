@@ -22,6 +22,15 @@ I plan on keeping this project updated to the best of my capabilities and
 knowledge. So, if you notice something missing or have a better idea for
 something please do not hesitate to open a PR!
 
+## Why you might want to reset the CSS
+
+Resetting a browser's CSS where your project will be viewed from ensures a consistent
+starting point for styling, eliminating browser-specific variations and promoting
+semantic markup. This practice will save you a lot of headaches in the later part of
+development when you want to have a unified look for your project across all browsers
+since each browser has its own default CSS that might override the one from your
+projects.
+
 ## Usage Terms & Conditions
 
 The project is licensed under the terms & conditions (T&Cs) for the MIT license.
